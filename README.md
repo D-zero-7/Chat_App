@@ -15,5 +15,6 @@ To clone and use the application locally, follow these steps:
    git clone https://github.com/your-username/Chat_App.git
    cd Chat_App
 2. Run the code by
+   ```bash
    npm i
    npm run dev
