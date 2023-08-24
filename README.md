@@ -1,6 +1,6 @@
 # Chat_App
 
-Welcome to **Chat_App**, a real-time chat application built using GUN Js and Svelte.
+Welcome to **Chat_App**, a real-time decentralized chat application built using GUN Js and Svelte.
 
 ## Demo
 
